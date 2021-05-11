@@ -1,0 +1,241 @@
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\SQLite.Interop.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\RTIS_Vulcan_PGM.exe.config
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\RTIS_Vulcan_PGM.exe
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\RTIS_Vulcan_PGM.pdb
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Data.v16.2.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Utils.v16.2.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\System.Data.SQLite.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Data.v16.2.xml
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Utils.v16.2.xml
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.cntrlNumPad.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.cntrlOmniPad.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucMenu.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucPassword.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucSettings.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Forms.frmError.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Forms.frmMsg.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.frmMain.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Properties.Resources.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.csproj.GenerateResource.Cache
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.exe.licenses
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.exe
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.pdb
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.csprojResolveAssemblyReference.cache
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucCompany.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucScanItem.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucLogin.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Forms.frmConfirm.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\bin\Debug\wifi.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucDecant.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.ucManufacture.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.cntrlContainerItem.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.cntrlWhse.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucReceive.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucWarehouseFrom.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Forms.frmEditContainer.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucSelectProductToManuf.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucFGType.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.cntrlFGItem.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\Q183543.Form1.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucToWipInfo.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.cntrlPGMItem.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucSelectItem.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.cntrlPGMTransaction.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucItemTransactions.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\RTIS_Vulcan_PGM.exe.config
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.exe
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.pdb
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\SQLite.Interop.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\RTIS_Vulcan_PGM.exe
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\RTIS_Vulcan_PGM.pdb
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Data.v16.2.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Utils.v16.2.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\System.Data.SQLite.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\wifi.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Data.v16.2.xml
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Utils.v16.2.xml
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.csprojResolveAssemblyReference.cache
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.Transaction_Viewer.cntrlPGMHeader.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.cntrlPGMTransaction.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.cntrlPGMItem.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.cntrlContainerItem.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.cntrlNumPad.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.cntrlOmniPad.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.cntrlWhse.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucCompany.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucDecant.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucLogin.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.ucManufacture.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucMenu.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucPassword.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucReceive.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucScanItem.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucSettings.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucWarehouseFrom.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.cntrlFGItem.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucSelectProductToManuf.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucFGType.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucToWipInfo.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucSelectItem.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucItemTransactions.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.Transaction_Viewer.ucTransactionHeaders.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\Q183543.Form1.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Forms.frmConfirm.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Forms.frmEditContainer.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Forms.frmError.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Forms.frmMsg.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.frmMain.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Properties.Resources.resources
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.csproj.GenerateResource.Cache
+D:\Reltech Solutions\Clients\Cataler\Development\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.exe.licenses
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\SQLite.Interop.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\RTIS_Vulcan_PGM.exe.config
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\RTIS_Vulcan_PGM.exe
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\RTIS_Vulcan_PGM.pdb
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Data.v16.2.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Printing.v16.2.Core.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Sparkline.v16.2.Core.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Utils.v16.2.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\DevExpress.XtraEditors.v16.2.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\System.Data.SQLite.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\wifi.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Pdf.v16.2.Core.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Data.v16.2.xml
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Printing.v16.2.Core.xml
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Sparkline.v16.2.Core.xml
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Utils.v16.2.xml
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\DevExpress.XtraEditors.v16.2.xml
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\DevExpress.Pdf.v16.2.Core.xml
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\de\DevExpress.Data.v16.2.resources.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\es\DevExpress.Data.v16.2.resources.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\ja\DevExpress.Data.v16.2.resources.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\ru\DevExpress.Data.v16.2.resources.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\de\DevExpress.Printing.v16.2.Core.resources.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\es\DevExpress.Printing.v16.2.Core.resources.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\ja\DevExpress.Printing.v16.2.Core.resources.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\ru\DevExpress.Printing.v16.2.Core.resources.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\de\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\es\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\ja\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\ru\DevExpress.Sparkline.v16.2.Core.resources.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\de\DevExpress.Utils.v16.2.resources.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\es\DevExpress.Utils.v16.2.resources.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\ja\DevExpress.Utils.v16.2.resources.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\ru\DevExpress.Utils.v16.2.resources.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\de\DevExpress.XtraEditors.v16.2.resources.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\es\DevExpress.XtraEditors.v16.2.resources.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\ja\DevExpress.XtraEditors.v16.2.resources.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\ru\DevExpress.XtraEditors.v16.2.resources.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\de\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\es\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\ja\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\bin\Debug\ru\DevExpress.Pdf.v16.2.Core.resources.dll
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.csprojAssemblyReference.cache
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.Transaction_Viewer.cntrlPGMHeader.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.cntrlPGMTransaction.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.cntrlPGMItem.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.cntrlContainerItem.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.cntrlNumPad.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.cntrlOmniPad.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.cntrlWhse.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucCompany.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucDecant.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucLogin.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.ucManufacture.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucMenu.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucPassword.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucReceive.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucScanItem.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucSettings.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucWarehouseFrom.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.cntrlFGItem.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucSelectProductToManuf.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucFGType.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucToWipInfo.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucSelectItem.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.ucItemTransactions.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Controls.Transaction_Viewer.ucTransactionHeaders.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\Q183543.Form1.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Forms.frmConfirm.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Forms.frmEditContainer.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Forms.frmError.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Forms.frmMsg.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.frmMain.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Properties.Resources.resources
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.csproj.GenerateResource.cache
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.exe.licenses
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.csproj.CoreCompileInputs.cache
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.csproj.CopyComplete
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.exe
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.pdb
+D:\Reltech Solutions\GIT\Cataler\PGM\RTIS_Vulcan_PGM V1.2.2.7\RTIS_Vulcan_PGM\obj\Debug\RTIS_Vulcan_PGM.Forms.frmRemainder.resources
